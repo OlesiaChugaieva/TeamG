@@ -1,0 +1,30 @@
+{
+    "name": "team_profile_generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib",
+      "test": "__tests__"
+    },
+    "scripts": {
+      "test": "jest --verbose"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/PinarAktas/team_profile_generator.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/PinarAktas/team_profile_generator/issues"
+    },
+    "homepage": "https://github.com/PinarAktas/team_profile_generator#readme",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^27.5.1"
+    }
+  }
+  
